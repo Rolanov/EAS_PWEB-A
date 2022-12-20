@@ -31,7 +31,7 @@ include "../koneksi.php";
   <link rel="stylesheet" href="css/vertical-layout-light/style.css">
   <!-- endinject -->
 <!--   <link rel="shortcut icon" href="images/logo-mini.svg" /> -->
-  <link rel="shortcut icon" href="images/logo aku-nobg-notext.png" />
+<link rel="shortcut icon" href="images/logoKKP.png" height="100" width="100"/>
 <style type="text/css"> 
 /* Tambahan*/
   #myBtn {
@@ -80,8 +80,8 @@ function topFunction() {
     <!-- partial:partials/_navbar.html -->
     <nav class="navbar col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
       <div class="text-center navbar-brand-wrapper d-flex align-items-center justify-content-center">
-        <a class="navbar-brand brand-logo mr-5" href="index.php"><img src="images/logo aku-nobg-tex.png" class="mr-2" alt="logo"/></a>
-        <a class="navbar-brand brand-logo-mini" href="../../index.php"><img src="images/logo aku-nobg-notext.png" alt="logo"/></a>
+        <a class="navbar-brand brand-logo mr-5" href="index.php"><img src="images/logoKKP.png" width="100" height="100" class="mr-2" alt="logo"/></a>
+        <a class="navbar-brand brand-logo-mini" href="../../index.php"><img src="images/logoKKP.png" width="100" height="100" alt="logo"/></a>
         <!-- <a class="navbar-brand brand-logo-mini" href="index.php"><img src="images/logo-mini.svg" alt="logo"/></a> -->
       </div>
       <div class="navbar-menu-wrapper d-flex align-items-center justify-content-end">
@@ -181,8 +181,8 @@ function topFunction() {
                       </div>
                       
                       <div class="ml-2">
-                        <h4 class="location font-weight-normal">PT. AKU</h4>
-                        <h6 class="font-weight-normal">Arie Karya Utama</h6>
+                        <h4 class="location font-weight-normal">KKP Jawa Timur</h4>
+                        <h6 class="font-weight-normal">Admin KKP</h6>
                       </div>
                     </div>
                   </div>
@@ -263,7 +263,7 @@ function topFunction() {
         <footer class="footer">
           <div class="d-sm-flex justify-content-center justify-content-sm-between">
             <span class="text-muted text-center text-sm-left d-block d-sm-inline-block">Copyright © 2022. Sistem Penerimaan Pegawai Berbasis Web.</span>
-            <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center">Administrator PT AKU. <i class="ti-flag text-danger ml-1"></i></span>
+            <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center">Administrator KKP Jawa Timur. <i class="ti-flag text-danger ml-1"></i></span>
           </div>
         </footer>
         <!-- partial -->

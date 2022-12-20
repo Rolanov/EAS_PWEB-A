@@ -72,7 +72,7 @@ else{
           <div class="col-lg-4 mx-auto">
             <div class="auth-form-light text-left py-5 px-4 px-sm-5">
               <div class="brand-logo">
-                <img src="backend/images/logo aku-nobg-tex.png" alt="logo">
+                <img src="backend/images/logoKKP.png" height="100" width="100" alt="logo">
               </div>
               <h4>Silakan login sebelum memulai.</h4>
               <h6 class="font-weight-light">Masukkan username dan password.</h6>
