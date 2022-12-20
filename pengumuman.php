@@ -25,7 +25,7 @@ require 'koneksi.php';
 <head>
 
     <meta charset="utf-8">
-    <title>Website PT AKU | Pengumuman</title>
+    <title>KKP Jawa Timur| Pengumuman</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -69,9 +69,9 @@ require 'koneksi.php';
         <!-- Navbar & Hero Start -->
         <div class="container-xxl position-relative p-0">
             <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
-                <a href="index.php"><img src="img/new/logo aku-nobg-notext.png"/>&nbsp;&nbsp;</a>
+                <a href="index.php"><img src="img/new/logoKKP.png" width="100" height="100"/>&nbsp;&nbsp;</a>
                 <a href="" class="navbar-brand p-0">
-                    <h1 class="m-0"> PT ARIE KARYA UTAMA<span class="fs-5"></span></h1>
+                    <h1 class="m-0"> KKP Jawa Timur<span class="fs-5"></span></h1>
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                     <span class="fa fa-bars"></span>
@@ -198,26 +198,26 @@ require 'koneksi.php';
         <!-- Pengumuman End -->
         
 
-        <!-- Footer Start -->
-        <div class="container-fluid bg-primary text-light footer mt-5 pt-5 wow fadeIn" data-wow-delay="0.1s">
+<!-- Footer Start -->
+<div class="container-fluid bg-primary text-light footer mt-5 pt-5 wow fadeIn" data-wow-delay="0.1s">
             <div class="container py-5 px-lg-5">
                 <div class="row g-5">
                     <div class="col-md-6 col-lg-3">
                         <h5 class="text-white mb-4">Get In Touch</h5>
                         <p><i class="fa fa-map-marker-alt me-3"></i>Kantor Pusat</p>
                         <p>
-                        Jl. Proklamasi Blok D 24-25, RT 001/023, Kel. Abadijaya,
-                        Kec. Sukmajaya Kota Depok, Jawa Barat. 16417</p>
+                        KEMENTERIAN KELAUTAN DAN PERIKANAN JL. Medan Merdeka Timur No.16 Jakarta Pusat</p>
                         <!-- <p><i class="fa fa-phone-alt me-3"></i>(021)77831787 atau 77832358</p>
                         <p><i class="fa fa-envelope me-3"></i>ariekarya@gmail.com</p> -->
                     </div>
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <div class="col-md-8 col-lg-3">
                         <h5 class="text-white mb-4">Get In Touch</h5>
-                        <p><i class="fa fa-map-marker-alt me-3"></i>www.ariekaryautama.com</p>
-                        <p><i class="fa fa-phone-alt me-3"></i>(021)77831787 atau 77832358</p>
-                        <p><i class="fa fa-envelope me-3"></i>ariekarya@gmail.com</p>
+                        <p><i class="fa fa-map-marker-alt me-3"></i>www.kkp.go.id</p>
+                        <p><i class="fa fa-phone-alt me-3"></i> (021) 3519070</p>
+                        <p><i class="fa fa-envelope me-3"></i>humas.kkp@kkp.go.id</p>
                     </div>
+                    
                 </div>
             </div>
             <div class="container px-lg-5">
@@ -228,7 +228,7 @@ require 'koneksi.php';
                         </div>
                         <div class="col-md-6 text-center text-md-end">
                             <div class="footer-menu">
-                                <a href="#">Pengumuman</a>
+                                <a href="#">Home</a>
                             </div>
                         </div>
                     </div>

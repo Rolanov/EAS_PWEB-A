@@ -98,7 +98,7 @@ $jumlahdata = mysqli_num_rows($getdata);
                                 <i class="fa fa-heart fa-2x"></i>
                             </div>
                             <h5 class="mb-3">Terpercaya</h5>
-                            <p>Sejak didirikan pada tahun 2006, PT Arie Karya Utama telah dipercaya oleh ratusan perusahaan untuk mengelola sampah dan beberapa klien telah bekerja sama lebih dari lima hingga sepuluh tahun lamanya.</p>
+                            <p>Terbentuknya Kementrian Kelautan dan Perikanan pada dasarnya merupakan sebuah tantangan, sekaligus peluang bagi pengembangan sektor kelautan dan perikanan Indonesia.</p>
                             <!-- <a class="btn px-3 mt-auto mx-auto" href="">Read More</a> -->
                         </div>
                     </div>
@@ -108,7 +108,7 @@ $jumlahdata = mysqli_num_rows($getdata);
                                 <i class="fa fa-user fa-2x"></i>
                             </div>
                             <h5 class="mb-3">Profesional</h5>
-                            <p>Konsistensi PT Arie Karya Utama selama belasan tahun di bidang kebersihan turut membentuk perusahaan menjadi semakin berkembang dan profesional atas setiap pelayanan yang diberikan. </p>
+                            <p>Sejak era reformasi bergulir di tengah percaturan politik Indonesia, sejak itu pula perubahan kehidupan mendasar berkembang di hampir seluruh kehidupan berbangsa dan bernegara.</p>
                             <!-- <a class="btn px-3 mt-auto mx-auto" href="">Read More</a> -->
                         </div>
                     </div>
@@ -118,7 +118,7 @@ $jumlahdata = mysqli_num_rows($getdata);
                                 <i class="fa fa-clock fa-2x"></i>
                             </div>
                             <h5 class="mb-3">Berkelanjutan</h5>
-                            <p>Sejak tahun 2016, PT Arie Karya Utama telah berkomitmen untuk mewujudkan pengelolaan sampah secara berkelanjutan, yang salah satunya dengan mengaplikasikan konsep circular economy (dari pengelolaan sampah tersebut).</p>
+                            <p>Perubahan Nomenklatur Departemen menjadi Kementerian: Dengan ditetapkannya Peraturan Presiden No. No. 47 Tahun 2009 tentang Pembentukan dan Organisasi Kementerian Negara, maka Nomenklatur Departemen Kelautan dan Perikanan menjadi Kementerian Kelautan dan Perikanan.</p>
                             <!-- <a class="btn px-3 mt-auto mx-auto" href="">Read More</a> -->
                         </div>
                     </div>

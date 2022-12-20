@@ -5,7 +5,7 @@
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>Informasi | PT AKU</title>
+  <title>Informasi | KKP Jawa Timur</title>
   <!-- plugins:css -->
   <link rel="stylesheet" href="../../vendors/feather/feather.css">
   <link rel="stylesheet" href="../../vendors/ti-icons/css/themify-icons.css">
@@ -45,7 +45,7 @@
               <div class="col-12 mt-xl-2">
                 <!-- <p>Otomatis akan diarahkan ke website dalam 8 detik.</p> -->
                 <p><a href="../../../index.php" class="text-white" style="text-decoration: none;">Kembali ke Home.</a></p>
-                <p class="text-white font-weight-medium text-center">Copyright &copy; 2022. PT Arie Karya Utama.</p>
+                <p class="text-white font-weight-medium text-center">Copyright &copy; 2022. KKP Jawa Timur.</p>
               </div>
             </div>
           </div>

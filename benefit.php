@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Website PT AKU | Benefit</title>
+    <title>KKP Jawa Timur | Benefit</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -47,9 +47,9 @@
         <!-- Navbar & Hero Start -->
         <div class="container-xxl position-relative p-0">
             <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
-                <a href="index.php"><img src="img/new/logo aku-nobg-notext.png"/>&nbsp;&nbsp;</a>
+                <a href="index.php"><img src="img/new/logoKKP.png" width="100" height="100"/>&nbsp;&nbsp;</a>
                 <a href="" class="navbar-brand p-0">
-                    <h1 class="m-0"> PT ARIE KARYA UTAMA<span class="fs-5"></span></h1>
+                    <h1 class="m-0"> KKP Jawa Timur<span class="fs-5"></span></h1>
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                     <span class="fa fa-bars"></span>
@@ -119,7 +119,7 @@
                                 <i class="fa fa-heart fa-2x"></i>
                             </div>
                             <h5 class="mb-3">Terpercaya</h5>
-                            <p>Sejak didirikan pada tahun 2006, PT Arie Karya Utama telah dipercaya oleh ratusan perusahaan untuk mengelola sampah dan beberapa klien telah bekerja sama lebih dari lima hingga sepuluh tahun lamanya.</p>
+                            <p>Terbentuknya Kementrian Kelautan dan Perikanan pada dasarnya merupakan sebuah tantangan, sekaligus peluang bagi pengembangan sektor kelautan dan perikanan Indonesia.</p>
                             <!-- <a class="btn px-3 mt-auto mx-auto" href="">Read More</a> -->
                         </div>
                     </div>
@@ -129,7 +129,7 @@
                                 <i class="fa fa-user fa-2x"></i>
                             </div>
                             <h5 class="mb-3">Profesional</h5>
-                            <p>Konsistensi PT Arie Karya Utama selama belasan tahun di bidang kebersihan turut membentuk perusahaan menjadi semakin berkembang dan profesional atas setiap pelayanan yang diberikan. </p>
+                            <p>Sejak era reformasi bergulir di tengah percaturan politik Indonesia, sejak itu pula perubahan kehidupan mendasar berkembang di hampir seluruh kehidupan berbangsa dan bernegara.</p>
                             <!-- <a class="btn px-3 mt-auto mx-auto" href="">Read More</a> -->
                         </div>
                     </div>
@@ -139,7 +139,7 @@
                                 <i class="fa fa-clock fa-2x"></i>
                             </div>
                             <h5 class="mb-3">Berkelanjutan</h5>
-                            <p>Sejak tahun 2016, PT Arie Karya Utama telah berkomitmen untuk mewujudkan pengelolaan sampah secara berkelanjutan, yang salah satunya dengan mengaplikasikan konsep circular economy (dari pengelolaan sampah tersebut).</p>
+                            <p>Perubahan Nomenklatur Departemen menjadi Kementerian: Dengan ditetapkannya Peraturan Presiden No. No. 47 Tahun 2009 tentang Pembentukan dan Organisasi Kementerian Negara, maka Nomenklatur Departemen Kelautan dan Perikanan menjadi Kementerian Kelautan dan Perikanan.</p>
                             <!-- <a class="btn px-3 mt-auto mx-auto" href="">Read More</a> -->
                         </div>
                     </div>
@@ -158,17 +158,16 @@
                         <h5 class="text-white mb-4">Get In Touch</h5>
                         <p><i class="fa fa-map-marker-alt me-3"></i>Kantor Pusat</p>
                         <p>
-                        Jl. Proklamasi Blok D 24-25, RT 001/023, Kel. Abadijaya,
-                        Kec. Sukmajaya Kota Depok, Jawa Barat. 16417</p>
+                        KEMENTERIAN KELAUTAN DAN PERIKANAN JL. Medan Merdeka Timur No.16 Jakarta Pusat</p>
                         <!-- <p><i class="fa fa-phone-alt me-3"></i>(021)77831787 atau 77832358</p>
                         <p><i class="fa fa-envelope me-3"></i>ariekarya@gmail.com</p> -->
                     </div>
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <div class="col-md-8 col-lg-3">
                         <h5 class="text-white mb-4">Get In Touch</h5>
-                        <p><i class="fa fa-map-marker-alt me-3"></i>www.ariekaryautama.com</p>
-                        <p><i class="fa fa-phone-alt me-3"></i>(021)77831787 atau 77832358</p>
-                        <p><i class="fa fa-envelope me-3"></i>ariekarya@gmail.com</p>
+                        <p><i class="fa fa-map-marker-alt me-3"></i>www.kkp.go.id</p>
+                        <p><i class="fa fa-phone-alt me-3"></i> (021) 3519070</p>
+                        <p><i class="fa fa-envelope me-3"></i>humas.kkp@kkp.go.id</p>
                     </div>
                     
                 </div>
@@ -181,14 +180,13 @@
                         </div>
                         <div class="col-md-6 text-center text-md-end">
                             <div class="footer-menu">
-                                <a href="#">Benefit</a>
+                                <a href="#">Home</a>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- Footer End -->
 
 
         <!-- Back to Top -->
